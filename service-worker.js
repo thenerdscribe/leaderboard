@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "thenerdscribe.github.io/leaderboard/precache-manifest.fedb3d939e463bc54c87042e930639ed.js"
+  "/leaderboard/precache-manifest.001742dd514150896df8fd355535278f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("thenerdscribe.github.io/leaderboard/index.html", {
+workbox.routing.registerNavigationRoute("/leaderboard/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
