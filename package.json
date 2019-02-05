@@ -2,7 +2,7 @@
   "name": "points",
   "version": "0.1.0",
   "private": true,
-  "homepage": "thenerdscribe.github.io/leaderboard",
+  "homepage": "https://thenerdscribe.github.io/leaderboard",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
