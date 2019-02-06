@@ -6,7 +6,7 @@ class App extends Component {
     super(props);
     this.state = {
       points: [
-        { name: "Eric", points: 27 },
+        { name: "Eric", points: 28 },
         { name: "Jordan", points: 26 },
         { name: "Darien", points: 20 },
         { name: "Ryan", points: 16 },
@@ -16,7 +16,8 @@ class App extends Component {
         { name: "Madeline", points: 1 },
         { name: "Meg", points: 1 },
         { name: "Nick", points: 1 },
-        { name: "Eric W.", points: 1 }
+        { name: "Eric W.", points: 1 },
+        { name: "Evan", points: 1 }
       ]
     };
   }
