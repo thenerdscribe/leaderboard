@@ -8,7 +8,7 @@ class App extends Component {
       points: [
         { name: "Eric", points: 32 },
         { name: "Jordan", points: 29 },
-        { name: "Darien", points: 20 },
+        { name: "Darien", points: 21 },
         { name: "Ryan", points: 17 },
         { name: "Courtney", points: 5 },
         { name: "David", points: 2 },
