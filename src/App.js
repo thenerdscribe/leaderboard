@@ -16,7 +16,7 @@ class App extends Component {
         { name: "Meg", points: 1 },
         { name: "Nick", points: 1 },
         { name: "Eric W.", points: 1 },
-        { name: "Evan", points: 1 }
+        { name: "Evan", points: 2 }
       ]
     };
   }
